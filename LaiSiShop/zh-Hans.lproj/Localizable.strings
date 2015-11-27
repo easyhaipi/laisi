@@ -1,0 +1,9 @@
+/* 
+  TestFile.strings
+  LaiSiShop
+
+  Created by taobaichi on 15/11/26.
+  Copyright © 2015年 taobaichi. All rights reserved.
+*/
+"11" = "插入一个数据";
+"22" = "查找一组数据";
