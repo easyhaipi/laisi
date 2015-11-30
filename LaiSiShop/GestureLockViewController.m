@@ -4,7 +4,7 @@
 //
 //  Created by taobaichi on 15/11/25.
 //  Copyright © 2015年 taobaichi. All rights reserved.
-//
+//  手势加密
 
 #import "GestureLockViewController.h"
 

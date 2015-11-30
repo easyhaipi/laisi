@@ -28,6 +28,7 @@
 		8A8868071C05965400AA8095 /* GestureVerifyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A8868041C05965400AA8095 /* GestureVerifyViewController.m */; settings = {ASSET_TAGS = (); }; };
 		8A8868081C05965400AA8095 /* GestureViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A8868061C05965400AA8095 /* GestureViewController.m */; settings = {ASSET_TAGS = (); }; };
 		8A88680A1C059B4000AA8095 /* head@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A8868091C059B4000AA8095 /* head@3x.png */; settings = {ASSET_TAGS = (); }; };
+		8ABFC2041C0C1B8B00C11D3F /* test22ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8ABFC2031C0C1B8B00C11D3F /* test22ViewController.m */; settings = {ASSET_TAGS = (); }; };
 		8AE237231BFEED7B002798D5 /* NewDataViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AE237221BFEED7B002798D5 /* NewDataViewController.m */; settings = {ASSET_TAGS = (); }; };
 		8AE237251BFEED90002798D5 /* NewdataStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8AE237241BFEED90002798D5 /* NewdataStoryboard.storyboard */; settings = {ASSET_TAGS = (); }; };
 		8AE237291BFEFD6B002798D5 /* MBProgressHUD+MJ.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AE237281BFEFD6B002798D5 /* MBProgressHUD+MJ.m */; settings = {ASSET_TAGS = (); }; };
@@ -106,6 +107,8 @@
 		8A8868051C05965400AA8095 /* GestureViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GestureViewController.h; sourceTree = "<group>"; };
 		8A8868061C05965400AA8095 /* GestureViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GestureViewController.m; sourceTree = "<group>"; };
 		8A8868091C059B4000AA8095 /* head@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "head@3x.png"; sourceTree = "<group>"; };
+		8ABFC2021C0C1B8B00C11D3F /* test22ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = test22ViewController.h; sourceTree = "<group>"; };
+		8ABFC2031C0C1B8B00C11D3F /* test22ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = test22ViewController.m; sourceTree = "<group>"; };
 		8AE237211BFEED7B002798D5 /* NewDataViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewDataViewController.h; sourceTree = "<group>"; };
 		8AE237221BFEED7B002798D5 /* NewDataViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewDataViewController.m; sourceTree = "<group>"; };
 		8AE237241BFEED90002798D5 /* NewdataStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = NewdataStoryboard.storyboard; sourceTree = "<group>"; };
@@ -205,6 +208,8 @@
 				8A8867E01C05516C00AA8095 /* GestureLockViewController.h */,
 				8A8867E11C05516C00AA8095 /* GestureLockViewController.m */,
 				8A8867E31C0556B000AA8095 /* PrefixHeader.pch */,
+				8ABFC2021C0C1B8B00C11D3F /* test22ViewController.h */,
+				8ABFC2031C0C1B8B00C11D3F /* test22ViewController.m */,
 			);
 			path = LaiSiShop;
 			sourceTree = "<group>";
@@ -525,6 +530,7 @@
 				8AE237321BFF07F2002798D5 /* MessageViewCell.m in Sources */,
 				8AE2372F1BFF053A002798D5 /* HistoryMessageViewController.m in Sources */,
 				8A8868071C05965400AA8095 /* GestureVerifyViewController.m in Sources */,
+				8ABFC2041C0C1B8B00C11D3F /* test22ViewController.m in Sources */,
 				8A8868081C05965400AA8095 /* GestureViewController.m in Sources */,
 				8A48E8131BFD680100BDA281 /* main.m in Sources */,
 				8AE2372C1BFF030C002798D5 /* MessageModel.m in Sources */,
