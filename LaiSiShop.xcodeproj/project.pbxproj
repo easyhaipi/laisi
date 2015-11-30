@@ -17,6 +17,7 @@
 		8A48E82C1BFD680100BDA281 /* LaiSiShopTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A48E82B1BFD680100BDA281 /* LaiSiShopTests.m */; };
 		8A48E8371BFD680100BDA281 /* LaiSiShopUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A48E8361BFD680100BDA281 /* LaiSiShopUITests.m */; };
 		8A84B37E1C0C1D8A0094A7A9 /* branch1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A84B37D1C0C1D8A0094A7A9 /* branch1ViewController.m */; settings = {ASSET_TAGS = (); }; };
+		8A84B3811C0C1DF10094A7A9 /* NowBranchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A84B3801C0C1DF10094A7A9 /* NowBranchViewController.m */; settings = {ASSET_TAGS = (); }; };
 		8A87164E1C06A12700AEF6DF /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8A8716501C06A12700AEF6DF /* Localizable.strings */; };
 		8A87165A1C06B43E00AEF6DF /* icon80.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A87165C1C06B43E00AEF6DF /* icon80.png */; };
 		8A8867E21C05516C00AA8095 /* GestureLockViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A8867E11C05516C00AA8095 /* GestureLockViewController.m */; settings = {ASSET_TAGS = (); }; };
@@ -79,6 +80,8 @@
 		8A62003C1C04459E00C0E76C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 		8A84B37C1C0C1D8A0094A7A9 /* branch1ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = branch1ViewController.h; sourceTree = "<group>"; };
 		8A84B37D1C0C1D8A0094A7A9 /* branch1ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = branch1ViewController.m; sourceTree = "<group>"; };
+		8A84B37F1C0C1DF10094A7A9 /* NowBranchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NowBranchViewController.h; sourceTree = "<group>"; };
+		8A84B3801C0C1DF10094A7A9 /* NowBranchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NowBranchViewController.m; sourceTree = "<group>"; };
 		8A87164F1C06A12700AEF6DF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		8A8716511C06A16300AEF6DF /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Main.strings"; sourceTree = "<group>"; };
 		8A8716521C06A16300AEF6DF /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
@@ -215,6 +218,8 @@
 				8ABFC2031C0C1B8B00C11D3F /* test22ViewController.m */,
 				8A84B37C1C0C1D8A0094A7A9 /* branch1ViewController.h */,
 				8A84B37D1C0C1D8A0094A7A9 /* branch1ViewController.m */,
+				8A84B37F1C0C1DF10094A7A9 /* NowBranchViewController.h */,
+				8A84B3801C0C1DF10094A7A9 /* NowBranchViewController.m */,
 			);
 			path = LaiSiShop;
 			sourceTree = "<group>";
@@ -540,6 +545,7 @@
 				8A8868081C05965400AA8095 /* GestureViewController.m in Sources */,
 				8A48E8131BFD680100BDA281 /* main.m in Sources */,
 				8AE2372C1BFF030C002798D5 /* MessageModel.m in Sources */,
+				8A84B3811C0C1DF10094A7A9 /* NowBranchViewController.m in Sources */,
 				8A8867FF1C0595C700AA8095 /* CALayer+Anim.m in Sources */,
 				8A8867E21C05516C00AA8095 /* GestureLockViewController.m in Sources */,
 			);
