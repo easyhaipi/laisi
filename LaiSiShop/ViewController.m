@@ -189,7 +189,10 @@
          gestureVc.type = GestureViewControllerTypeSetting;
          [self.navigationController pushViewController:gestureVc animated:YES];
      }
+   
     
+    // 测试使用 soure Tree
+    // 简单使用
     
 }
 
